@@ -1,4 +1,4 @@
-require 'pry'
+equire 'pry'
 
 def my_find(collection)
 i = 0 
